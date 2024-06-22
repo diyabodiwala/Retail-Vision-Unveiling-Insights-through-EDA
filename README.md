@@ -6,9 +6,9 @@ The dataset contains 1 CSV files containing sales details for the 36 months from
 OrderNumber, ProductName, Color, Category, SubCategory, ListPrice, Orderdate, Duedate, Shipdate, PromotionName, SalesRegion, OrderQuantity, UnitPrice, SalesAmount, DiscountAmount, TaxAmount, Freight
 
 # Built With
-Jupyter Notebook
-Pandas
-Matplotlib
-numpy
-seaborn
-math
+ • Jupyter Notebook
+ • Pandas
+ • Matplotlib
+ • numpy
+ • seaborn
+ • math
